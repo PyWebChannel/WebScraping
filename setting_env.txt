@@ -1,0 +1,58 @@
+####################################################################################################                                                                                                
+#
+# System: Windows 10 Pro, version 1903 	       
+#	  python3.8 as pip comes pre-installed
+#
+#             Ubuntu LTS 18.04	       
+#	  apt (Advanced Packaging Tool)
+#	  python3.7 as pip comes pre-installed
+#
+####################################################################################################
+
+Linux:
+
+1. sudo apt update && sudo apt upgrade -y
+
+2. sudo pip install --upgrade pip 
+
+3. sudo pip install --upgrade virtualenv 
+
+Windows:
+
+1. python -m pip install --upgrade pip
+
+####################################################################################################
+
+Installation: Command_Line
+
+Install BeautifulSoup (Linux/Windows)
+
+1. pip install beautifulsoup4
+
+Install Selenium  (Linux/Windows)
+
+2. pip install selenium
+
+Install CSV  (Linux/Windows)
+
+3. pip install csv
+
+Install PhantomJS (Linux)
+
+4. sudo apt install phantomjs
+
+Install PhantomJS (Windows)
+
+5. sudo install phantomjs
+
+Install ChromeDriver (Linux)
+
+6. https://gist.github.com/mikesmullin/2636776#gistcomment-1658459
+
+For Firefox (Linux):
+
+7. https://github.com/mozilla/geckodriver/releases/tag/v0.26.0
+
+Install ChromeDriver and Firefox (Windows):
+
+8. https://selenium-python.readthedocs.io/installation.html#drivers
