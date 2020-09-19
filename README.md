@@ -9,6 +9,9 @@
 * beautifulsoup
 * requests
 * csv
+* be skillful 😎
 
 ### 📖 Table of Contents:
-1. Setup your local environment: [setting_env]()
+1. Setup your local environment: [setting_env](setting_env.txt)
+1. Examples:  
+  2.1 [Paritaet-hessen](paritaet-hessen)
