@@ -1,1 +1,1 @@
-![](https://github.com/PyWebChannel/WebScraping/tree/master/dubaichamber/dubaichamber.gif)
+![](https://github.com/PyWebChannel/WebScraping/blob/master/dubaichamber/dubaichamber.gif)
