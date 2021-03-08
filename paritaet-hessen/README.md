@@ -21,7 +21,7 @@ Script Requirements (python3 (ver.3.8)):
 ## Output data:
 ![img](https://github.com/PyWebChannel/Shadow/blob/master/paritaet-hessen/img/output_data.png "excel table")
 
-**Input files:**
+**Output files:**
 - list_of_companies.csv
 - list_of_companies.xlsx
 
