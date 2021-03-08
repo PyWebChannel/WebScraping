@@ -2,6 +2,7 @@
 
 ### The task:
 <img src="https://github.com/PyWebChannel/Shadow/blob/master/dubaichamber/dubaichamber_task.png" alt="task" width="1200"/>
+
 We need to get data:  
 | Name | Email | Phone | URL | Fax | Product/Service | Product |
 |:----:|:------:|:------------:|:-----------:|:----:|:-----:|:------:|
