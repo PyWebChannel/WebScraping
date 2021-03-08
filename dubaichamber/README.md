@@ -2,6 +2,10 @@
 
 ### The task:
 <img src="https://github.com/PyWebChannel/Shadow/blob/master/dubaichamber/dubaichamber_task.png" alt="task" width="1200"/>
+We need to get data:
+| Name | Email | Phone | URL | Fax | Product/Service | Product |
+|:----:|:------:|:------------:|:-----------:|:----:|:-----:|:------:|
+column 1 | column 2 | column 3 | column 4 | column 5 | column 6 | column 7
 
 ## Input data:
 Website --> [dubaichamber.com](https://www.dubaichamber.com/resources/commercial-directory)
@@ -13,7 +17,7 @@ Script Requirements (python3 (ver.3.8)):
 ## Output data:
 ![img](https://github.com/PyWebChannel/Shadow/blob/master/dubaichamber/dubaichamber_OutputFile.png "excel table")
 
-**Input files:**
+**Output files:**
 - dubaichamber_OutputFile.csv
 - dubaichamber_OutputFile.xlsx
 
