@@ -23,7 +23,7 @@ Script Requirements (python3 (ver.3.8)):
 
 **Output files:**
 - list_of_companies.csv
-- list_of_companies.xlsx
+- list_of_companies.xlsx (Google Sheets-->[click here to watch the full version](https://docs.google.com/spreadsheets/d/1NtQYzlNqvwRe8pJUHcHyo6kLCaq6_Yca8RWzEYloK5A/edit?usp=sharing))
 
 📌 **NOTE:** [WebDriver.py](WebDriver.py) gets the instance of specified web driver (Firefox, Chrome - *default*, PhantomJS).
 
