@@ -20,7 +20,7 @@ Script Requirements (python3 (ver.3.8)):
 
 **Output files:**
 - dubaichamber_OutputFile.csv
-- dubaichamber_OutputFile.xlsx
+- dubaichamber_OutputFile.xlsx (Google Sheets-->[click here to watch the full version](https://docs.google.com/spreadsheets/d/1lZjKK-DpgkvHPeDUdlyWHM0Zy9PNBZlVfJUAHcB-334/edit?usp=sharing))
 
 📌 **NOTE:** The instance of the web driver being used - **chromedriver** (*default*)
 
